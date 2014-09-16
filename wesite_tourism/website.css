@@ -1,0 +1,267 @@
+body{
+		background:url("im/background.png") repeat-x bottom #fff;
+    padding:0px;
+    margin: 0px;
+    margin-bottom: 0px;
+
+  }
+  #content{
+  		width:959px;
+  		height:1308px;
+  		margin:0px auto; 
+  		background-color: white; 
+      margin-top: 0px; 		
+    
+  }
+  #logo{
+
+  	width: 825px;
+  	height: 150px;
+    float: left;
+    margin-left: 60px;
+    margin-right: 60px; 
+  }
+  #pic_logo{
+  	 width: 771px;
+  	 height: 287px;
+    float: left;
+    margin-left: 64px;
+    margin-right: 64px; 
+  	  }
+  #menu{
+       width: 801px;
+       height: 60px;
+        float: left;
+        margin-left: 64px;
+       margin-right: 64px; 
+       
+  }
+  .welcome{
+
+  	    width: 400px;
+  	    height:350px;
+        padding:0px; 
+        margin-left: 94px;   
+        float: left;
+        
+      }
+.galery{
+
+        width: 360px;
+        height:374px;
+        padding-left: 20px; 
+        margin-right: 80px;   
+        float: right;
+  }
+
+  }
+  .welcome_head{
+  	     width: 338px;
+  	     background-color: red;
+  	     height: 60px;
+                  
+  }
+  .gallery_head{
+         background: url("im/gallery.jpg") no-repeat;
+         width: 338px;         
+         height: 80px;
+                  
+  }
+  .testimonial{
+  	width:771px;
+    float: left;
+  	height: 184px;
+    margin-left: 94px;  
+    margin-right: 64px; 
+
+  }
+  .head_test{
+  	 width: 771px;
+  	 height: 85px;
+  	 background: url("im/testimonials.png") no-repeat;
+   
+  }
+  .about{
+  	 height: 180px;
+     width:771px;
+     float: left;   
+     margin-left: 97px;  
+     margin-right: 64px; 
+  }
+  	}
+     .head_test
+     {
+     width: 771px;
+     height: 60px;
+     text-align: left;
+    }
+    .head_about
+     {
+     width: 771px;
+     background: url("im/about.jpg") no-repeat;
+     height: 94px;
+     text-align: left;
+
+    }
+  #footer{
+     width:100%;
+     height: 80px;
+     background: url("im/footer.jpg") no-repeat;
+     text-align: left;
+     float: left;
+     margin: 0px !importent;
+  }
+  p{
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 13px;
+  text-align: justify;
+  line-height:21px ;
+  }
+  .t{
+       width:  97%;
+       height:  67%;
+       padding-left: 22px;
+       padding-bottom: 5px;
+  }
+  .img{
+        height: 87px;
+        width: 119px;
+  }
+  .img2{
+        height: 87px;
+        width: 119px;
+        margin-left: 45px;
+  }
+  #view{
+           float: right; 
+           margin-right: 20px;   
+  }
+  #va{ 
+           padding-left: 20px;
+           padding-bottom: 10px;
+           margin-right: 25px;
+           color: black;
+           background:url("im/view.jpg") no-repeat;
+           width: 5px;
+
+             }
+  .testi_p{
+
+     float:right;
+  }
+  .im_testi{
+       margin-right: 8px;
+  }
+  #home{
+      background: url('im/menu_sprite.png') 0px 0;
+      width: 111px;
+      height: 44px;
+  }
+  #faci
+  {
+      left: 149px;
+      background: url('im/menu_sprite.png') -112px 0;
+      width: 100px;
+      height: 44px;
+  }
+  #ayurvedha{
+     left: 238px;
+     background: url('im/menu_sprite.png') -204px 0;
+     width: 102px;
+     height: 44px;
+  }
+  #gallery{
+    left: 341px;
+     background: url('im/menu_sprite.png') -315px 0;
+     width: 100px;
+     height: 44px;
+  }
+  #attraction{
+     left: 432px;
+     background: url('im/menu_sprite.png') -416px 0;
+     width: 127px;
+     height: 44px;
+  }
+  #tariff{
+    
+     left: 543px;
+     background: url('im/menu_sprite.png') -538px 0;
+     width: 140px;
+     height: 44px;
+
+
+  }
+  #con{
+
+     left: 639px;
+     background: url('im/menu_sprite.png') -641px 0;
+     width: 89px;
+     height: 44px;
+  }
+  #home:hover{
+      background: url('im/menu_sprite.png') 754px 0;
+  }
+  #faci:hover
+  {
+     
+      background: url('im/menu_sprite.png') -866px 0;
+  }
+  #ayurvedha:hover{
+     
+     background: url('im/menu_sprite.png') -958px 0;
+   
+  }
+  #gallery:hover{
+    left: 340px;
+     background: url('im/menu_sprite.png') -1068px 0;
+     width: 100px;
+     height: 44px;
+  }
+  #attraction:hover{
+     left: 430px;
+     background: url('im/menu_sprite.png') -1168px 0;
+     width: 103px;
+     height: 44px;
+  }
+  #tariff:hover{
+    
+     left: 544px;
+     background: url('im/menu_sprite.png') -1293px 0;
+     width: 94px;
+     height: 44px;
+
+
+  }
+  #con:hover{
+
+     left: 642px;
+     background: url('im/menu_sprite.png') -1398px 0;
+     width: 89px;
+     height: 44px;
+  }
+
+  #navlist {
+    position: relative;
+}
+
+#navlist li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 0;
+}
+
+#navlist li, #navlist a {
+    height: 44px;
+    display: block;
+}
+a{
+   text-decoration: none;
+   color:#FFFFFF;
+}
+
+
+
+
+
